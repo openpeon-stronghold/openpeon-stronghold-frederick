@@ -6,6 +6,8 @@
 
 Emperor Frederick sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) — voice lines from Emperor Frederick in Stronghold Crusader.
 
+Emperor Frederick is a refined and formidable German crusader who carries the weight of empire in every word. Cultured and strategically minded, he is a natural coalition leader — confident in his superiority, but measured enough to make him a valuable and reliable ally.
+
 ## Install
 
 ```bash
